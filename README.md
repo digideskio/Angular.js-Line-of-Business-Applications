@@ -1,9 +1,9 @@
-Pluralsight-AngularJS-Line-of-Business-Applications
-===================================================
-
 [Pluralsight] AngularJS Line of Business Applications
 
-  
+Online Exasmple:  
+http://marley-angularjs.github.io/Angular.js-Line-of-Business-Applications/
+
+=================
   
 The routing used in this sample code requires a Web Server to serve the view templates. So you cannot run this code simply by executing the index.html file.
   
