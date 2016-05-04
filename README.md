@@ -1,4 +1,4 @@
-[Pluralsight] AngularJS Line of Business Applications
+### AngularJS Line of Business Applications
 
 Online Exasmple:  
 http://marley-angularjs.github.io/Angular.js-Line-of-Business-Applications/
