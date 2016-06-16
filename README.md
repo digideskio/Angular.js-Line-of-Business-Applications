@@ -1,6 +1,6 @@
 ### AngularJS Line of Business Applications
 
-Online Exasmple:  
+Online Example:  
 http://marley-angularjs.github.io/Angular.js-Line-of-Business-Applications/
 
 =================
